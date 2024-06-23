@@ -5,23 +5,18 @@
 body {
     margin: 0;
     font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
     line-height: 1.5;
     font-weight: 400;
 }
 
-h1, h2, h3, p {
-    margin: 0;
-}
+h1 { margin: 0; font-family: "Fraunces", serif; }
+h2 {margin: 0; font-family: "Montserrat", sans-serif; }
 
-a, a:hover {
-    text-decoration: none;
-}
+p { margin: 0; }
 
-ul {
-    margin: 0;
-    padding: 0;
-}
+a, a:hover { text-decoration: none; }
 
-img {
-    display: block;
-}
+ul { margin: 0; padding: 0; }
+
+img { display: block; }
