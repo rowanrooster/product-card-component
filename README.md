@@ -11,4 +11,4 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ### Links
 
 - [Frontend Mentor](https://www.frontendmentor.io/profile/rowanrooster)
-- [Live Preview](https://rowanrooster.github.io/fylo-landing-page/)
+- [Live Preview](https://rowanrooster.github.io/product-card-component/)
